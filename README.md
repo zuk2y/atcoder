@@ -1,2 +1,2 @@
 # atcoder
-AtCoderでACされたソースを置いておくリポジトリ
+AtCoderでACされたソースを置いておく
